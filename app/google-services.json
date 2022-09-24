@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44338394460",
+    "project_id": "gd6-a-0745",
+    "storage_bucket": "gd6-a-0745.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44338394460:android:eb997083acb0ace3e9fd99",
+        "android_client_info": {
+          "package_name": "com.novita.gd6_a_0745"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44338394460-pgjnsv2f72nb9eq939sdm6nk7jne1j7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK3o1cQCHUEE7nFviBOr_rSnJL4lqVOSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44338394460-pgjnsv2f72nb9eq939sdm6nk7jne1j7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
